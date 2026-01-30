@@ -9,6 +9,9 @@ public class Prime {
     }
 
     // print all the 3 digit armstrong number
+     
+
+
 
     static boolean isPrime(int n) {
         if (n <= 1) {
